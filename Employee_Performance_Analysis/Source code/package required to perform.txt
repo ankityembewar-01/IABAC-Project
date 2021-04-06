@@ -1,0 +1,7 @@
+The below packages should be installed before running the notebook,
+
+1. imblearn
+2. sweetviz
+3. yellowbricks
+4. optuna
+5. plotly
